@@ -14,20 +14,6 @@ We encourage you to look through those communities and if you find one that it i
 
 Below you'll find suggested recipes to follow before, during and after you can start your own community, and a list of Do's and Don'ts and also useful links you should probably check out.
 
-### Community Onboarding Cookbook
-
-Here we outline a few "recipes", or set of steps, you can follow to address different aspects of creating, growing and sustaining, a new community. We refer to these set of recipes as our **Community Onboarding Cookbook** or **Community Propeller**. If you have ideas of new recipes, please do get in touch.
-
-The recipes vary from some technical aspects and where to find help, as well as the social aspects related to creating a community, and encouraging participating and collaboration. 
-
-There are multiple general guidelines for starting open source communities that you can use, including: 
-- [The Turing Way](https://the-turing-way.netlify.app/index.html), which is a handbook for reproducible, ethical and collaborative data science developed in the [Turing Institute](https://www.turing.ac.uk/) UK, includes guidelines on [Managing a New Community and Team](https://the-turing-way.netlify.app/collaboration/new-community)
-- Guidelines on [Starting a community - taking your software to the world](https://www.software.ac.uk/guide/starting-community-taking-your-software-world) published by the UK [Software Sustainability Institute](https://www.software.ac.uk/). 
-- The OSSWatch guidelines on [How to build an open source community](http://oss-watch.ac.uk/resources/howtobuildcommunity)
-- [It Takes A Village](https://itav.lyrasis.org/) is a framework for open-source communities (originally from the cultural and scientific heritage domain, but applicable to other areas) to develop sustainability strategies. It offers a guidebook, a toolkit and information about their communities. 
-
-Some of the recipes in this cookbook will customize those guidelines to the specific application to the Galaxy Community.
-
 #### Learn the basics about Galaxy
 
 First of all, you should start with our dedicated [**Get Started**](/get-started/) page to get a head-start of what Galaxy is about.
@@ -40,8 +26,8 @@ Galaxy has many tools already installed and ready to be used but when creating y
 Don't forget to follow the [**Best Practices**](https://galaxy-iuc-standards.readthedocs.io/en/latest/best_practices.html) for writing [**Galaxy Tools**](https://toolshed.g2.bx.psu.edu/).
 
 #### Get involved
-- Introduce yourself and dive in our [Working Groups](https://galaxyproject.org/community/wg/).
-- Participate in our worldwide [Galaxy Events](https://galaxyproject.org/events/).
+- Introduce yourself and dive in our [Working Groups](/community/wg/).
+- Participate in our worldwide [Galaxy Events](/events/).
 - If you want to start your own [Special Interest Group](/community/sig/) we encourage you to read the [Galaxy Community Board](/community/governance/gcb/#creating-a-new-sig) page.
 
 ### Create communication channels for your community
@@ -62,3 +48,23 @@ This curated table was made with the help of Community member's experience in ho
 | Request your tool to be reviewed, avoid managing your repo alone! | Be a lone wolf. The main servers may not want to install your tool as they want to make sure it follows the [**standards**](https://galaxy-iuc-standards.readthedocs.io/en/latest/best_practices.html) they have defined for developing tools. |
 | When you happen to need a tool: Make the tool -> write the training -> set up an event. Repeat events and take advantage of Galaxy’s infrastructure (Smorgasbord, CoFests, GCC, etc.) to improve your tool ,maximize its use and receive feedback from the community. | Set to create very specific tools and avoid feedback. |
 | Use already established servers. Asking for a subdomain within the [**usegalaxy.eu**](https://usegalaxy.eu/) server is a great option! |Set up a server all by yourself (consider resources, complexity, security issues and more).|
+
+
+### Community Onboarding Cookbook
+
+Here we outline a few "recipes", or set of steps, you can follow to address different aspects of creating, growing and sustaining,
+a new community. We refer to these set of recipes as our **Community Onboarding Cookbook** or **Community Propeller**. If you have ideas of new recipes, please do get in touch.
+
+The recipes vary from some technical aspects and where to find help, as well as the social aspects related to creating a community,
+and encouraging participating and collaboration. 
+
+There are multiple general guidelines for starting open source communities that you can use, including:
+
+- [The Turing Way](https://the-turing-way.netlify.app/index.html), which is a handbook for reproducible, ethical and collaborative data science developed in the [Turing Institute](https://www.turing.ac.uk/) UK, includes guidelines on [Managing a New Community and Team](https://the-turing-way.netlify.app/collaboration/new-community)
+- Guidelines on [Starting a community - taking your software to the world](https://www.software.ac.uk/guide/starting-community-taking-your-software-world) published by the UK [Software Sustainability Institute](https://www.software.ac.uk/). 
+- The OSSWatch guidelines on [How to build an open source community](http://oss-watch.ac.uk/resources/howtobuildcommunity)
+- [It Takes A Village](https://itav.lyrasis.org/) is a framework for open-source communities (originally from the cultural and scientific heritage domain, but applicable to other areas) to develop sustainability strategies. It offers a guidebook, a toolkit and information about their communities. 
+
+Some of the recipes in this cookbook will customize those guidelines to the specific application to the Galaxy Community.
+
+
