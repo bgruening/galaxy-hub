@@ -17,22 +17,22 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
 | Monday, Jun 24    | 8:30 - 8:45   | Open and welcome                                         | BCD                 |
 |                   | 8:45 - 9:45   | [Keynote by Jana Klánová](/events/gcc2024/keynotes/)     | BCD                 |
 |                   | 9:45 - 10:00  | Morning break                                            | Atrium              |
-|                   | 10:00 - 12:00 | [Talks (single track)](#talks)                           | BCD                 |
+|                   | 10:00 - 12:00 | [Talks (single track)](#monday-1000---1200)              | BCD                 |
 |                   | 12:00 - 13:00 | Lunch                                                    | Restaurant Lucullus |
-|                   | 13:00 - 14:00 | [Trainings I](/events/gcc2024/training/)                 | B, C, D, M1, M2     |
+|                   | 13:00 - 14:00 | [Trainings I](/events/gcc2024/training/#day-1-session-1) | B, C, D, M1, M2     |
 |                   | 14:00 - 16:00 | [Posters](#monday-1400---1600) + coffee                  | A                   |
-|                   | 16:00 - 18:00 | [Trainings II](/events/gcc2024/training/)                | B, C, D, M1, M2     |
+|                   | 16:00 - 18:00 | [Trainings II](/events/gcc2024/training/#day-1-session-2)| B, C, D, M1, M2     |
 |                   | 18:00 - 19:00 | [BoFs](#monday-1800---1900)                              | B, C, D, M1, M2     |
 |                   | 19:00 - 21:00 | GCC2024 Welcome Happy Hour                               | Siesta Lobby & Wine Restaurant (inside Hotel International) |
 |                   |               |                                                          |                     |
-| Tuesday, Jun 25   | 8:30 - 8:45   | Overview of dinner tours                                 | BCD                 |
-|                   | 8:45 - 9:45   | Community update talk                                    | BCD                 |
+| Tuesday, Jun 25   | 8:45 - 9:00  | Overview of dinner tours                                  | BCD                 |
+|                   | 9:00 - 9:45   | What's up in the Galaxy: Community update talk           | BCD                 |
 |                   | 9:45 - 10:10  | Morning break                                            | Atrium              |
-|                   | 10:10 - 12:00 | [Talks (2 tracks)](#talks)                               | BC, D               |
+|                   | 10:10 - 12:00 | [Talks (2 tracks)](#tuesday-1010---1200)                 | BC, D               |
 |                   | 12:00 - 13:00 | Lunch                                                    | Restaurant Lucullus |
-|                   | 13:00 - 14:00 | [Trainings I](/events/gcc2024/training/)                 | B, C, D, M1, M2     |
+|                   | 13:00 - 14:00 | [Trainings I](/events/gcc2024/training/#day-2-session-1) | B, C, D, M1, M2     |
 |                   | 14:00 - 16:00 | [Posters](#tuesday-1400---1600) + coffee                 | A                   |
-|                   | 16:00 - 18:00 | [Trainings II](/events/gcc2024/training/)                | B, C, D, M1, M2     |
+|                   | 16:00 - 18:00 | [Trainings II](/events/gcc2024/training/#day-2-session-2)| B, C, D, M1, M2     |
 |                   | 18:00 - 19:00 | [BoFs](#tuesday-1800---1900)                             | B, C, D             |
 |                   | 19:00 - 22:00 | [Conference dinner](#conference-dinner)                  | Mendel's Abbey      |
 |                   |               |                                                          |                     |
@@ -48,16 +48,16 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
 | Thursday, Jun 27  | 8:30 - 8:45   | Feedback session                                         | BCD                 |
 |                   | 8:45 - 9:45   | [Keynote by Daria Onichtchouk](/events/gcc2024/keynotes/)| BCD                 |
 |                   | 9:45 - 10:10  | Morning break                                            | Atrium              |
-|                   | 10:10 - 12:00 | [Talks (2 tracks)](#talks)                               | BC, D               |
+|                   | 10:10 - 12:00 | [Talks (2 tracks)](#thursday-1010---1200)                | BC, D               |
 |                   | 12:00 - 13:00 | Lunch                                                    | Restaurant Lucullus |
-|                   | 13:00 - 14:00 | [Trainings I](/events/gcc2024/training/)                 | B, C, D, M1, M2     |
+|                   | 13:00 - 14:00 | [Trainings I](/events/gcc2024/training/#day-4-session-1) | B, C, D, M1, M2     |
 |                   | 14:00 - 14:30 | Afternoon break                                          | Atrium              |
-|                   | 14:30 - 16:30 | [Trainings II](/events/gcc2024/training/)                | B, C, D, M1, M2     |
-|                   | 16:30 - 17:30 | [Talks (single track)](#talks) & conference closing      | BCD                 |
-|                   | 17:30 - 19:00 | [BoFs](#thursday-1730---1900)                            | B, C, D, M1, M2     |
+|                   | 14:30 - 16:30 | [Trainings II](/events/gcc2024/training/#day-4-session-2)| B, C, D, M1, M2     |
+|                   | 16:30 - 17:30 | [Talks (single track)](#thursday-1630---1715) & conference closing  | BCD      |
+|                   | 17:30 - 19:00 | [BoFs](#thursday-1730---1900)                            | B, C, D, M1         |
 |                   |               |                                                          |                     |
-| Friday, Jun 28    | 9:00 - 17:00  | [CoFest](/events/gcc2024/cofest)                         | [OPEN GARDENS](https://www.otevrenazahrada.cz/) |
-| Saturday, Jun 29  | 9:00 - 17:00  | [CoFest](/events/gcc2024/cofest)                         | [OPEN GARDENS](https://www.otevrenazahrada.cz/) |
+| Friday, Jun 28    | 9:00 - 18:00  | [CoFest](/events/gcc2024/cofest)                         | [OPEN GARDENS](https://www.otevrenazahrada.cz/) |
+| Saturday, Jun 29  | 9:00 - 18:00  | [CoFest](/events/gcc2024/cofest)                         | [OPEN GARDENS](https://www.otevrenazahrada.cz/) |
 |                   |               |                                                          |                     |
 
 # Talks
@@ -143,8 +143,8 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
     <table>
         <thead>
             <tr>
-                <th style="width: 50%">Analysis track (room BC)</th>
-                <th>Enablement track: workflows & administration (room D)</th>
+                <th style="width: 50%">Analysis track (room D)</th>
+                <th>Enablement track: workflows & administration (room BC)</th>
             </tr>
         </thead>
         <tbody>
@@ -184,8 +184,8 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
                     <span class="gcc2024-authors">Patrick Austin, et al.</span>
                 </td>
                 <td>
-                    <span class="gcc2024-title">Maintaining and improving a large collection of workflows</span>;
-                    <span class="gcc2024-authors">Marius van den Beek</span>
+                    <span class="gcc2024-title">A Galaxy Workflow Developer's Companion in your Browser</span>;
+                    <span class="gcc2024-authors">David López</span>
                 </td>
             </tr>
             <tr>
@@ -259,8 +259,8 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
     <table>
         <thead>
             <tr>
-                <th style="width: 50%">Analysis track (room BC)</th>
-                <th>Enablement track: outreach & automation (room D)</th>
+                <th style="width: 50%">Analysis track (room D)</th>
+                <th>Enablement track: outreach & automation (room BC)</th>
             </tr>
         </thead>
         <tbody>
@@ -445,8 +445,8 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
             <tr>
                 <td>4</td>
                 <td>
-                    <span class="gcc2024-title">A Galaxy Workflow Developer's Companion in your Browser</span>;
-                    <span class="gcc2024-authors">David López</span>
+                    <span class="gcc2024-title">Maintaining and improving a large collection of workflows</span>;
+                    <span class="gcc2024-authors">Marius van den Beek</span>
                 </td>
             </tr>
             <tr>
@@ -846,14 +846,15 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
                     Title:
                 </td>
                 <td>
-                    <strong>Get involved with BioDIGS and GDSCN</strong> (room B)
+                    <strong>microGalaxy SIG with BioDIGS and GDSCN</strong> (room B)
                 </td>
             <tr>
                 <td>
                     Description:
                 </td>
                 <td>
-                    GDSCN and BioDIGS are looking to get interested researchers and students involved. This BoF will involve discussions of how best you can help the project and participate. If you have any questions or want to join the effort, come join the BoF.
+                    The microGalaxy Special Interest Group (SIG) is a group of researchers and bioinformaticians who collaborate to develop and optimise scientific analytical for microbial data using the Galaxy platform. This SIG aims to (i) develop, maintain, and sustain microbial data analysis in Galaxy, (ii) establish and implement standardised "best practices", (iii) expand documentation and training resources, (iv) coordinate collaborative efforts to avoid redundancy and prioritise tools, workflows, and training (v) outreach to the microbiology research communities both within and outside the Galaxy. In this BoF, we will talk about the recent efforts of the community (tools, workflows, training, resource catalog, papers) and plan efforts for the next months.<br/>
+                    We will also discuss the GDSCN and BioDIGS projects, which are looking to get interested researchers and students involved in soil metagenomics.
                 </td>
             </tr>
             <tr>
@@ -954,14 +955,14 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
                     Title:
                 </td>
                 <td>
-                    <strong>microGalaxy SIG: microbial data analysis resources in Galaxy</strong> (room M2)
+                    <strong>Small scale Galaxy Admins Community of Practice</strong> (room M2)
                 </td>
             <tr>
                 <td>
                     Description:
                 </td>
                 <td>
-                    The microGalaxy Special Interest Group (SIG) is a group of researchers and bioinformaticians who collaborate to develop and optimise scientific analytical for microbial data using the Galaxy platform. This SIG aims to (i) develop, maintain, and sustain microbial data analysis in Galaxy, (ii) establish and implement standardised "best practices", (iii) expand documentation and training resources, (iv) coordinate collaborative efforts to avoid redundancy and prioritise tools, workflows, and training (v) outreach to the microbiology research communities both within and outside the Galaxy. In this BoF, we will talk about the recent efforts of the community (tools, workflows, training, resource catalog, papers) and plan efforts for the next months.
+                    We are a group of admins who maintain a (small) (local) Galaxy server. In this BoF we would like to attract other Galaxy admins to join us. After a general introduction of our community, we would like to discuss (and solve) any current issue we face as a Galaxy admin - in a similar style (though in person) to our on-line meetings which we have every two months.
                 </td>
             </tr>
             <tr>
@@ -969,7 +970,7 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
                     Organizers:
                 </td>
                 <td>
-                    Bérénice Batut, Paul Zierep
+                    Lucille Delisle, Hans-Rudolf Hotz
                 </td>
             </tr>
         </tbody>
@@ -1065,33 +1066,6 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
 ## Thursday: 17:30 - 19:00
 
 <div>
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    Title:
-                </td>
-                <td>
-                    <strong>Small scale Galaxy Admins Community of Practice</strong> (room B)
-                </td>
-            <tr>
-                <td>
-                    Description:
-                </td>
-                <td>
-                    We are a group of admins who maintain a (small) (local) Galaxy server. In this BoF we would like to attract other Galaxy admins to join us. After a general introduction of our community, we would like to discuss (and solve) any current issue we face as a Galaxy admin - in a similar style (though in person) to our on-line meetings which we have every two months.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Organizers:
-                </td>
-                <td>
-                    Lucille Delisle, Hans-Rudolf Hotz
-                </td>
-            </tr>
-        </tbody>
-    </table>
     <table>
         <tbody>
             <tr>
@@ -1196,6 +1170,33 @@ the page and you can download the [abstract book here](https://gcc2024.s3.eu-cen
                 </td>
                 <td>
                     John Davis, Dannon Baker
+                </td>
+            </tr>
+        </tbody>
+    </table>
+        <table>
+        <tbody>
+            <tr>
+                <td>
+                    Title:
+                </td>
+                <td>
+                    <strong>WF invocation UI feedback</strong> (room B)
+                </td>
+            <tr>
+                <td>
+                    Description:
+                </td>
+                <td>
+                    Galaxy UI has a set of new powerful features such as the WF invocation graph view. We would like to invite users to do <a href="https://hackmd.io/@nekrut/ByXVAys8C">a quick analysis</a> that will be provided to them and collect their feedback.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Organizer:
+                </td>
+                <td>
+                    Anton Nekrutenko
                 </td>
             </tr>
         </tbody>
