@@ -111,7 +111,10 @@ const emptyHint = `No citations found for ${subsite}. Add a BibTeX file at conte
   <div class="max-w-5xl mx-auto space-y-6">
     <header class="border-b border-gray-200 pb-4">
       <h1 class="text-3xl font-bold text-galaxy-dark">{subsite.toUpperCase()} Citations</h1>
-      <p class="text-gray-600">This is the list of scientific publications that cited the {subsite.toUpperCase()} Galaxy instance. Please help us to support this project with your acknowledgement.</p>
+      <p class="text-gray-600">
+        This is the list of scientific publications that cited the {subsite.toUpperCase()} Galaxy instance. Please help us
+        to support this project with your acknowledgement.
+      </p>
     </header>
 
     {
@@ -167,9 +170,9 @@ const emptyHint = `No citations found for ${subsite}. Add a BibTeX file at conte
                         target="_blank"
                         rel="noopener noreferrer"
                         set:html={c.title || 'Untitled'}
-                      ></a>
+                      />
                     ) : (
-                      <span set:html={c.title || 'Untitled'}></span>
+                      <span set:html={c.title || 'Untitled'} />
                     )}
                   </h2>
                   {c.authors && <p class="text-sm text-gray-600 mt-1">{c.authors}</p>}
