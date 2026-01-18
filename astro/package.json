@@ -28,6 +28,8 @@
     "@astrojs/vue": "^5.1.4",
     "@fontsource/atkinson-hyperlegible": "^5.2.8",
     "@nanostores/vue": "^1.0.1",
+    "@citation-js/core": "^0.6.9",
+    "@citation-js/plugin-bibtex": "^0.6.9",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.17",
     "@vueuse/core": "^14.1.0",
