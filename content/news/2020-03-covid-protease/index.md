@@ -5,9 +5,7 @@ tease: workflows for identifying potential ligands by virtual screening
 tags: [tools, COVID-19]
 supporters:
 - eosc
-authors: simonbray
-authors_structured:
-- github: simonbray
+authors: Simon Bray
 subsites: [eu, freiburg, global, us]
 main_subsite: freiburg
 ---

@@ -5,9 +5,7 @@ tease: "A new €12 million Horizon Europe funded project which will tackle the 
 tags: [COVID-19]
 supporters:
 - bycovid
-authors: bgruening
-authors_structured:
-- github: bgruening
+authors: Björn Grüning
 subsites: [global, eu, pasteur, freiburg, erasmusmc, elixir-it, belgium, genouest]
 main_subsite: eu
 ---

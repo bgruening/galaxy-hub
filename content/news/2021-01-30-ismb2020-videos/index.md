@@ -4,9 +4,7 @@ date: '2021-01-30'
 tags: [training, talk, poster, COVID-19]
 supporters:
 - galaxy-europe
-authors: foellmelanie
-authors_structured:
-- github: foellmelanie
+authors: Melanie Föll
 subsites: [eu, freiburg]
 main_subsite: freiburg
 ---

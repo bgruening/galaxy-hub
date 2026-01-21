@@ -4,8 +4,7 @@ date: '2024-05-16'
 tease: "A report out of Galaxy Europe's user space, by Sheu-Tijani Olawale Abogunloko"
 tags: [UseCase]
 authors: Sheu Tijani Olawale Abogunloko
-authors_structured:
-- name: "Sheu Tijani Olawale Abogunloko"
+authors: "Sheu Tijani Olawale Abogunloko"
 subsites: [eu, pasteur, freiburg, erasmusmc, elixir-it, belgium, genouest]
 main_subsite: eu
 ---

@@ -2,9 +2,7 @@
 title: 'UseGalaxy.eu Use Case: Genetics research on dairy cattle'
 date: '2021-06-25'
 tags: [UseCase]
-authors: TKlingstrom
-authors_structured:
-- github: TKlingstrom
+authors: Tomas Klingström
 subsites: [eu, pasteur, freiburg, erasmusmc, elixir-it, belgium, genouest]
 main_subsite: eu
 ---

@@ -7,9 +7,7 @@ supporters:
 - elixir
 - biodaten
 - eosc
-authors: beatrizserrano
-authors_structured:
-- github: beatrizserrano
+authors: Beatriz Serrano-Solano
 subsites: [eu, freiburg]
 main_subsite: freiburg
 ---

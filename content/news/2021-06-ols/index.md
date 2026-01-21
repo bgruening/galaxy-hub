@@ -8,9 +8,7 @@ supporters:
 - elixir
 - eosc
 - denbi
-authors: bebatut
-authors_structured:
-- github: bebatut
+authors: Bérénice Batut
 subsites: [global, all-eu, us]
 main_subsite: eu
 ---

@@ -7,9 +7,7 @@ hide_tease: true
 tags: [COVID-19]
 supporters:
 - denbi
-authors: bgruening
-authors_structured:
-- github: bgruening
+authors: Björn Grüning
 subsites: [eu, freiburg]
 main_subsite: freiburg
 ---

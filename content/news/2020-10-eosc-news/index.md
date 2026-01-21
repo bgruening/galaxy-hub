@@ -5,9 +5,7 @@ tease: Galaxy training, CellProfiler, and more
 tags: [newsletter]
 supporters:
 - eosc
-authors: beatrizserrano
-authors_structured:
-- github: beatrizserrano
+authors: Beatriz Serrano-Solano
 subsites: [global, all-eu, us]
 main_subsite: eu
 ---

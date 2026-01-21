@@ -6,9 +6,7 @@ tags: [training, tiaas]
 supporters:
 - galaxy-europe
 - eosc
-authors: annefou
-authors_structured:
-- github: annefou
+authors: "Anne Fouilloux"
 subsites: [global, us, eu, pasteur, freiburg, erasmusmc, elixir-it, belgium, genouest]
 main_subsite: eu
 ---

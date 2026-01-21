@@ -13,9 +13,7 @@ supporters:
 - biolytix
 - elixir
 - denbi
-authors: bebatut
-authors_structured:
-- github: bebatut
+authors: Bérénice Batut
 subsites: [eu, freiburg]
 main_subsite: freiburg
 ---

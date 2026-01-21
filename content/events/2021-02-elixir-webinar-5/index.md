@@ -9,7 +9,7 @@ location:
 external_url: "https://elixir-europe.org/events/2nd-galaxy-elixir-webinar-series#session5"
 location_url: "https://elixir-europe.org/events/2nd-galaxy-elixir-webinar-series"
 gtn: false
-contact: "Bjoern Gruening, Babita Singh, Wolfgang Maier"
+contact: "Björn Grüning, Babita Singh, Wolfgang Maier"
 tags: [ webinar ]
 links:
   - text: "Variant Workflows Slides"

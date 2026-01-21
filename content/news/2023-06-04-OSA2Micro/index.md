@@ -5,9 +5,7 @@ end: '2020-06-05'
 tags: [training, talk]
 supporters:
 - eosc
-authors: paulzierep
-authors_structured:
-- github: paulzierep
+authors: Paul Zierep
 location:
   name: Molecular Biotechnology Center (MBC), Turin, Italy
 subsites: [eu, freiburg]

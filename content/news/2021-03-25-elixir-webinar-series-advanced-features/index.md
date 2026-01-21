@@ -4,9 +4,7 @@ date: '2021-03-25'
 tags: [talk]
 supporters:
 - elixir
-authors: beatrizserrano
-authors_structured:
-- github: beatrizserrano
+authors: Beatriz Serrano-Solano
 subsites: [eu, pasteur, freiburg, erasmusmc, elixir-it, belgium, genouest]
 main_subsite: eu
 ---

@@ -6,9 +6,7 @@ tags: [training, FAQ, tiaas, COVID-19, report]
 supporters:
 - elixir
 - denbi
-authors: beatrizserrano
-authors_structured:
-- github: beatrizserrano
+authors: Beatriz Serrano-Solano
 subsites: [eu, freiburg, global, us]
 main_subsite: freiburg
 ---

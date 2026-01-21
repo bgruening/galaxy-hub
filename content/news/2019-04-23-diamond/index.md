@@ -4,9 +4,7 @@ date: '2019-04-23'
 tags: [collaboration]
 supporters:
 - eosc
-authors: simonbray
-authors_structured:
-- github: simonbray
+authors: Simon Bray
 subsites: [eu, freiburg]
 main_subsite: freiburg
 ---

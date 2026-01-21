@@ -8,9 +8,7 @@ supporters:
 - eosc
 - elixir
 - denbi
-authors: annefou
-authors_structured:
-- github: annefou
+authors: "Anne Fouilloux"
 subsites: [eu, freiburg, global, us]
 main_subsite: freiburg
 ---

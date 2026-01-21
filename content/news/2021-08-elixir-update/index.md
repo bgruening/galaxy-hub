@@ -5,9 +5,7 @@ tease: An updated ELIXIR Galaxy website includes our goals, with a special empha
   on interactions with the local, domain-specific and global communities; plus much
   more
 tags: [COVID-19, training, galaxy]
-authors: beatrizserrano
-authors_structured:
-- github: beatrizserrano
+authors: Beatriz Serrano-Solano
 subsites: [global, all-eu, us]
 main_subsite: eu
 ---

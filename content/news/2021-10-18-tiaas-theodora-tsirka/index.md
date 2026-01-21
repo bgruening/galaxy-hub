@@ -8,8 +8,6 @@ supporters:
 - galaxy-europe
 - eosc
 authors: Theodora Tsirka
-authors_structured:
-- name: Theodora Tsirka
 subsites: [eu, pasteur, freiburg, erasmusmc, elixir-it, belgium, genouest]
 main_subsite: eu
 ---

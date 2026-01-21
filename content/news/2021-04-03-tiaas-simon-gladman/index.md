@@ -5,9 +5,7 @@ tags: [training, tiaas]
 supporters:
 - galaxy-europe
 - eosc
-authors: Slugger70
-authors_structured:
-- github: Slugger70
+authors: Simon Gladman
 subsites: [eu, pasteur, freiburg, erasmusmc, elixir-it, belgium, genouest]
 main_subsite: eu
 ---
