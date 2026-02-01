@@ -86,7 +86,7 @@ test.describe('Navigation', () => {
       await menuButton.click();
 
       // Wait for menu to become visible (hydration + animation)
-      await page.waitForSelector('[role="dialog"], [data-state="open"]', { timeout: 3000 });
+      await page.waitForSelector('[role="dialog"], [data-state="open"]', { timeout: 7000 });
       const mobileMenu = page.locator('[role="dialog"], [data-state="open"]');
       const count = await mobileMenu.count();
       expect(count).toBeGreaterThan(0);

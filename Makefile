@@ -60,6 +60,10 @@ astro-check: astro-install ## Format, lint, and test Astro site
 	cd astro && npm run format && npm run lint && npm test
 .PHONY: astro-check
 
+astro-link-check: astro-install ## Build and run link/image check via preview server on port 9999
+	cd astro && PORT=9999 LINK_CHECK=1 LINK_CHECK_PREVIEW=1 LINK_CHECK_TIMEOUT=1800000 npm test -- --reporter=line --grep @linkcheck --project=chromium
+.PHONY: astro-link-check
+
 help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 .PHONY: help
