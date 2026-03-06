@@ -126,7 +126,7 @@ dsc-bremen:
 
 eirene:
     name: EIRENE RI
-    url: https://eirene.eu
+    url: https://eirene.eu/
     github: false
     gtn-halloffame: "no"
 
@@ -147,7 +147,7 @@ elixir-de:
 esa:
     name: European Space Agency
     github: false
-    url: https://www.esa.int
+    url: https://www.esa.int/
     gtn-halloffame: "no"
 
 eubi:
