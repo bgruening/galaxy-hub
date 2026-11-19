@@ -7,7 +7,7 @@ subsites: [all,esg]
 tags: [esg, esg-wp2, "new feature", "research data management"]
 contributions:
   authorship:
-    - kysrpex
+    - domgz
   funding:
     - eurosciencegateway
     - uni-freiburg

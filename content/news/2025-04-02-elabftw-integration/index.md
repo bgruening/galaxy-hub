@@ -7,7 +7,7 @@ subsites: [eu, esg]
 tags: [esg, esg-wp2]
 contributions:
   authorship:
-    - kysrpex
+    - domgz
   funding:
     - eurosciencegateway
     - uni-freiburg
